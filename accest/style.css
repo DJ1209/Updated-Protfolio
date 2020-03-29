@@ -1,0 +1,32 @@
+/* style.css : profile stylesheet */
+
+body {
+    background-image: url(Updated-Protfolio/accest/image/grey_wash_wall.png);
+}
+
+p {
+    font-size: 1.25rem;
+}
+
+.container {
+    background-color: whitesmoke;
+}
+
+.main-body {
+    /* background-color: #cccccc; */
+    margin-top: 0;
+}
+
+.my-nav {
+    margin-bottom: 0;
+}
+
+.navbar-toggler {
+    margin: 0 20px 0 0;
+}
+
+.navbar-toggler-icon {
+    background-color: black;
+    color: whitesmoke;
+    /* background-color: #ccc; */
+}
