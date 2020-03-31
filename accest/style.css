@@ -10,6 +10,7 @@ p {
 
 .container {
     background-color: whitesmoke;
+    margin-top: 01%;
 }
 
 .main-body {
@@ -29,4 +30,10 @@ p {
     background-color: black;
     color: whitesmoke;
     /* background-color: #ccc; */
+}
+
+.header {
+    margin-left: 3.8%;
+    margin-right: 3.8%;
+    color: brown;
 }
